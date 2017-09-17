@@ -1,0 +1,11 @@
+backlightd (0-2) unstable; urgency=medium
+
+  * Add package description summary.
+
+ -- Martin Stensgård <mastensg@miller.mastensg.net>  Thu, 29 Dec 2016 22:59:54 +0100
+
+backlightd (0-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Martin Stensgård <mastensg@mastensg.net>  Mon, 07 Nov 2016 06:33:06 +0100

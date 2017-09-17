@@ -1,0 +1,15 @@
+Source: backlightd
+Section: unknown
+Priority: optional
+Maintainer: Martin Stensgård <mastensg@miller.mastensg.net>
+Build-Depends: debhelper (>= 9), autotools-dev, dh-systemd
+Standards-Version: 3.9.8
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: https://anonscm.debian.org/collab-maint/backlightd.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/backlightd.git
+
+Package: backlightd
+Architecture: all
+Depends: ${misc:Depends}
+Description: Control MacBook Air display and keyboard backlight brightness
+ <insert long description, indented with spaces>
